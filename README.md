@@ -6,5 +6,5 @@ Design credit - https://dribbble.com/shots/9024252-TRVL-App/attachments/1146045?
 
 ## Screenshots
 
-<img src=“assets/home.png”
+<img src=“assets/home.png” />
 
